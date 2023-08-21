@@ -31,7 +31,7 @@ const MainPage = () => {
 
     return (
         <>
-            <h1>Çeviri +</h1>
+            
             <div className='container'>
 
                 <div className="left">
